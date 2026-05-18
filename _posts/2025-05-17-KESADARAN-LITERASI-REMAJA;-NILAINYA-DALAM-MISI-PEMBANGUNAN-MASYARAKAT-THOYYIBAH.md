@@ -1,3 +1,9 @@
+---
+title: "KESADARAN LITERASI REMAJA; NILAINYA DALAM MISI PEMBANGUNAN MASYARAKAT THOYYIBAH"
+author: "Faruq Callan"
+date: 2025-05-17
+category: "Gagasan dan Pemikiran"
+---
 # **Latar Belakang**
 
 Dewasa ini dunia semakin penuh dengan hiruk pikuk sosial media. Berbagai konten lalu lalang di internet, mulai dari yang sifatnya pencerdasan, hiburan hingga pembodohan. Hampir semua masyarakat Indonesia tidak lepas dari internet, salah satunya remaja. Beberapa tahun kebelakang penulis sering menjumpai realitas baik pada teman sebaya maupun remaja pada umumnya akan penurunan minat dan kemampuan membaca dikalangan remaja. Dalam hemat penulis, penurunan minat baca salah satunya dipengaruhi tarikan menikmati konten hiburan di internet mulai dari media sosial hingga game serta karena kurangnya kesadaran akan pentingnya kegiatan membaca atau literasi. Adanya penurunan minat baca diperkuat dengan hasil skor PISA *(Programme for International Student Assessment)* tahun 2022 yang diadakan oleh OECD *(Organization for Economic Co-operation and Development)* dengan responden sebanyak 14.000 remaja berusia 15 tahun yang duduk dibangku SMP, SMA dan SMK di mana hasil dari penelitian tersebut menunjukkan Indonesia menempati peringkat ke-69 dunia dengan skor PISA 359 (PRASASTIWI, 2024). Skor PISA 2022 ini mengalami penurunan dari tahun-tahun sebelumnya (NAURAH, 2023).
