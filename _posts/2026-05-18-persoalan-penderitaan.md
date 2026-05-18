@@ -4,11 +4,10 @@ author: "Faruq Callan"
 date: 2026-05-18
 category: "Ulasan"
 ---
-#Persoalan Penderitaan, Nilai, & Coping Mechanisme: Tanggapan terhadap video Ryu Hasan.
 
-Inspired by : ["Kenapa kita bisa percaya hal-hal ngawur?" - Ryu Hassan Malaka Project](https://www.youtube.com/watch?v=PJw8BWsbhoQ&t=2828s)
+**Inspired by :** ["Kenapa kita bisa percaya hal-hal ngawur?" - Ryu Hassan Malaka Project](https://www.youtube.com/watch?v=PJw8BWsbhoQ&t=2828s)
 
-Secara garis besar, dalam video tersebut berusaha menjelaskan kenapa kita mempercayai hal-hal ngawur. Beberapa hal dibahas dan disorot. Beberapa diantaranya mulai dari apa yang membedakan kita dengan tumbuhan? apa itu mental? apa itu kecerdasan kognitif? sampai pada kecerdasan emosi sebagai bagian dari mental. ==Bahwa mental hanya terjadi ketika manusia berinteraksi dengan manusia lain.== Hal tersebut menghasilkan sebuah konsekuensi bahwa untuk mencapai suatu yang disebut sebagai "mental" tentu ada hubungannya dengan moral / nilai. Sebagai contoh :
+Secara garis besar, dalam video tersebut berusaha menjelaskan kenapa kita mempercayai hal-hal ngawur. Beberapa hal dibahas dan disorot. Beberapa diantaranya mulai dari apa yang membedakan kita dengan tumbuhan? apa itu mental? apa itu kecerdasan kognitif? sampai pada kecerdasan emosi sebagai bagian dari mental. **Bahwa mental hanya terjadi ketika manusia berinteraksi dengan manusia lain.** Hal tersebut menghasilkan sebuah konsekuensi bahwa untuk mencapai suatu yang disebut sebagai *"mental"* tentu ada hubungannya dengan moral / nilai. Sebagai contoh :
 
 > Seseorang yang melanggar lampu merah dikatakan tidak sehat secara mental.
 
