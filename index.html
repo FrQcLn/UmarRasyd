@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="id" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UmarRasyd - Ruang Gagasan & Jurnal</title>
+    <style>
+        /* ================= TEMA WARNA ================= */
+        :root {
+            --bg-color: #FAF9F6;
+            --text-color: #2D2D2D;
+            --nav-bg: #EAE8E1;
+            --accent-color: #4A5D4E;
+            --border-color: #D1CFC8;
+            --card-bg: #FFFFFF;
+        }
+        [data-theme="dark"] {
+            --bg-color: #1A1C1A;
+            --text-color: #E2E4E2;
+            --nav-bg: #252825;
+            --accent-color: #8FBC8F;
+            --border-color: #3A3D3A;
+            --card-bg: #242724;
+        }
+
+        /* ================= PENGATURAN DASAR ================= */
+        body {
+            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            transition: background 0.4s ease, color 0.4s ease;
+            margin: 0; padding: 0;
+            line-height: 1.6;
+        }
+        h1, h2, h3, .serif-font {
+            font-family: 'Georgia', 'Playfair Display', serif;
+            font-weight: normal;
+        }
+        
+        /* ================= TATA LETAK UTAMA ================= */
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        /* ================= NAVIGASI ================= */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border-color);
+            margin-bottom: 2rem;
+        }
+        .logo { font-size: 1.5rem; cursor: pointer; font-weight: bold;}
+        .theme-toggle {
+            background: none; border: 1px solid var(--border-color);
+            color: var(--text-color); padding: 6px 14px;
+            border-radius: 20px; cursor: pointer; font-size: 0.9rem;
+            transition: 0.3s;
+            z-index: 10;
+        }
+        .theme-toggle:hover { background: var(--border-color); }
+        
+        nav { display: flex; gap: 15px; margin-bottom: 2rem; overflow-x: auto;}
+        .cat-btn {
+            background: var(--nav-bg); color: var(--text-color);
+            border: none; padding: 8px 16px; border-radius: 8px;
+            cursor: pointer; font-size: 0.9rem; transition: 0.2s;
+            z-index: 10;
+            white-space: nowrap;
+        }
+        .cat-btn.active, .cat-btn:hover {
+            background: var(--accent-color); color: #FAF9F6;
+        }
+
+        /* ================= DAFTAR TULISAN (HOMEPAGE) ================= */
+        .article-card {
+            background: var(--card-bg);
+            padding: 1.5rem;
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+            margin-bottom: 1.5rem;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .article-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+        .article-meta {
+            font-size: 0.85rem; color: var(--accent-color);
+            margin-bottom: 8px; text-transform: uppercase; letter-spacing: 1px;
+        }
+        .article-title {
+            margin: 0 0 10px 0; font-size: 1.6rem; color: var(--text-color);
+        }
+        .article-snippet { font-size: 1rem; opacity: 0.8; margin: 0; }
+        
+        .empty-state {
+            text-align: center;
+            padding: 3rem 1rem;
+            color: var(--text-color);
+            opacity: 0.6;
+            font-style: italic;
+        }
+
+        /* ================= HALAMAN ARTIKEL PENUH ================= */
+        .full-article { display: none; animation: fadeIn 0.5s; }
+        .back-btn {
+            background: none; border: none; color: var(--accent-color);
+            cursor: pointer; font-size: 1rem; margin-bottom: 1rem;
+            padding: 0; text-decoration: underline;
+        }
+        .full-meta { font-size: 0.9rem; color: var(--accent-color); margin-bottom: 2rem; border-bottom: 1px solid var(--border-color); padding-bottom: 1rem;}
+        .article-content img {
+            max-width: 100%; height: auto; border-radius: 8px; margin: 1.5rem 0;
+        }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <!-- HEADER -->
+        <header>
+            <div class="logo serif-font" id="logo-btn">UmarRasyd.</div>
+            <button class="theme-toggle" id="theme-btn">🌗 Ganti Tema</button>
+        </header>
+
+        <!-- KONTEN UTAMA -->
+        <main id="main-content">
+            
+            <!-- Tampilan Beranda -->
+            <div id="home-view">
+                <nav id="category-nav">
+                    <button class="cat-btn active" data-cat="Semua">Semua</button>
+                    <button class="cat-btn" data-cat="Gagasan dan Pemikiran">Gagasan dan Pemikiran</button>
+                    <button class="cat-btn" data-cat="Ulasan">Ulasan</button>
+                    <button class="cat-btn" data-cat="Jurnal">Jurnal</button>
+                </nav>
+                <div id="article-list"></div>
+            </div>
+
+            <!-- Tampilan Artikel Penuh -->
+            <div id="article-view" class="full-article">
+                <button class="back-btn" id="back-btn">← Kembali ke Beranda</button>
+                <h1 id="full-title" class="serif-font" style="font-size: 2.2rem; margin-bottom: 10px;"></h1>
+                <div class="full-meta">Oleh <span id="full-author"></span> • <span id="full-date"></span> • <span id="full-cat"></span></div>
+                <div id="full-content" class="article-content"></div>
+            </div>
+
+        </main>
+    </div>
+
+    <!-- JAVASCRIPT -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            
+            // DATABASE KOSONG UNTUK PRODUCTION (Siap diisi via Markdown/Github)
+            const articles = [];
+
+            const homeView = document.getElementById('home-view');
+            const articleView = document.getElementById('article-view');
+            const listContainer = document.getElementById('article-list');
+
+            // Fungsi Render Beranda
+            function renderHome(filterCat = 'Semua') {
+                homeView.style.display = 'block';
+                articleView.style.display = 'none';
+                listContainer.innerHTML = ''; 
+
+                const filteredArticles = filterCat === 'Semua' 
+                    ? articles 
+                    : articles.filter(a => a.category === filterCat);
+
+                if (filteredArticles.length === 0) {
+                    listContainer.innerHTML = '<div class="empty-state">Belum ada tulisan di kategori ini. Sistem siap menerima unggahan markdown Anda.</div>';
+                } else {
+                    filteredArticles.forEach(article => {
+                        const card = document.createElement('div');
+                        card.className = 'article-card';
+                        card.innerHTML = `
+                            <div class="article-meta">${article.category} • ${article.date}</div>
+                            <h2 class="article-title serif-font">${article.title}</h2>
+                            <p class="article-snippet">${article.snippet}</p>
+                        `;
+                        // Event listener untuk klik kartu artikel
+                        card.addEventListener('click', () => openArticle(article.id));
+                        listContainer.appendChild(card);
+                    });
+                }
+                window.scrollTo(0, 0);
+            }
+
+            // Fungsi Buka Artikel
+            function openArticle(id) {
+                const article = articles.find(a => a.id === id);
+                if(!article) return;
+                
+                homeView.style.display = 'none';
+                articleView.style.display = 'block';
+                
+                document.getElementById('full-title').innerText = article.title;
+                document.getElementById('full-author').innerText = article.author;
+                document.getElementById('full-date').innerText = article.date;
+                document.getElementById('full-cat').innerText = article.category;
+                document.getElementById('full-content').innerHTML = article.content;
+                
+                window.scrollTo(0, 0);
+            }
+
+            // Pasang Event Listener ke Tombol Kategori
+            const catButtons = document.querySelectorAll('.cat-btn');
+            catButtons.forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    catButtons.forEach(b => b.classList.remove('active'));
+                    e.target.classList.add('active');
+                    renderHome(e.target.getAttribute('data-cat'));
+                });
+            });
+
+            // Pasang Event Listener ke Logo dan Tombol Kembali
+            document.getElementById('logo-btn').addEventListener('click', () => {
+                catButtons.forEach(b => b.classList.remove('active'));
+                document.querySelector('[data-cat="Semua"]').classList.add('active');
+                renderHome('Semua');
+            });
+            document.getElementById('back-btn').addEventListener('click', () => renderHome('Semua'));
+
+            // Pasang Event Listener ke Tombol Tema
+            document.getElementById('theme-btn').addEventListener('click', () => {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                const targetTheme = currentTheme === 'light' ? 'dark' : 'light';
+                document.documentElement.setAttribute('data-theme', targetTheme);
+            });
+
+            // Jalankan render awal
+            renderHome();
+        });
+    </script>
+</body>
+</html>
