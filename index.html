@@ -159,7 +159,19 @@
         document.addEventListener('DOMContentLoaded', () => {
             
             // DATABASE KOSONG UNTUK PRODUCTION (Siap diisi via Markdown/Github)
-            const articles = [];
+            const articles = [
+                {% for post in site.posts %}
+                {
+                    id: {{ forloop.index }},
+                    title: {{ post.title | jsonify }},
+                    author: {{ post.author | jsonify }},
+                    date: "{{ post.date | date: '%d %b %Y' }}",
+                    category: {{ post.category | jsonify }},
+                    snippet: {{ post.content | strip_html | strip_newlines | truncate: 120 | jsonify }},
+                    content: {{ post.content | jsonify }}
+                }{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+            ];
 
             const homeView = document.getElementById('home-view');
             const articleView = document.getElementById('article-view');
