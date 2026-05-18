@@ -1,1 +1,0 @@
-draf oke lah blablabla
