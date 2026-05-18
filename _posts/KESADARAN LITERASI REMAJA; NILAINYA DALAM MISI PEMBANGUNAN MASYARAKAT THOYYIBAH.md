@@ -1,0 +1,79 @@
+# **Latar Belakang**
+
+Dewasa ini dunia semakin penuh dengan hiruk pikuk sosial media. Berbagai konten lalu lalang di internet, mulai dari yang sifatnya pencerdasan, hiburan hingga pembodohan. Hampir semua masyarakat Indonesia tidak lepas dari internet, salah satunya remaja. Beberapa tahun kebelakang penulis sering menjumpai realitas baik pada teman sebaya maupun remaja pada umumnya akan penurunan minat dan kemampuan membaca dikalangan remaja. Dalam hemat penulis, penurunan minat baca salah satunya dipengaruhi tarikan menikmati konten hiburan di internet mulai dari media sosial hingga game serta karena kurangnya kesadaran akan pentingnya kegiatan membaca atau literasi. Adanya penurunan minat baca diperkuat dengan hasil skor PISA _(__Programme for International Student Assessment)_ tahun 2022 yang diadakan oleh OECD _(Organization for Economic Co-operation and Development)_ dengan responden sebanyak 14.000 remaja berusia 15 tahun yang duduk dibangku SMP_,_ SMA dan SMK di mana hasil dari penelitian tersebut menunjukkan Indonesia menempati peringkat ke-69 dunia dengan skor PISA 359 (PRASASTIWI, 2024). Skor PISA 2022 ini mengalami penurunan dari tahun-tahun sebelumnya (NAURAH, 2023).
+
+|     |                                                                                                            |     |                                                                                                                                                                                       |
+| --- | ---------------------------------------------------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     |                                                                                                            |     |                                                                                                                                                                                       |
+|     | ![Grafik Skor PISA Tahun 2022](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png) |     | ![https://cdn.gnfi.net/goodstats/uploads/images/19/skor-literasi-membaca-indonesia-menurut-studi-pisapng](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) |
+|     |                                                                                                            |     |                                                                                                                                                                                       |
+
+  
+
+Data ini semakin memperkuat adanya penurunan kualitas literasi remaja Indonesia. Dengan adanya penurunan kualitas literasi tentu akan berdampak pada berbagai aspek baik di masa kini maupun di masa depan, salah satunya pada aspek dakwah remaja untuk melestarikan nilai-nilai Islam Rasional Kebangsaan (IRK). Dalam hemat penulis hal ini akan menjadi tantangan baik bagi subjek maupun objek dakwah, ketika remaja semakin jauh dari kebiasaan literasi maka akan semakin mudah dijauhkan dari nilai-nilai islam baik berupa sejarah ataupun pengetahuan terkait. Oleh karena itu perlunya membangun kesadaran bagi subjek dan objek dakwah yakni remaja akan pentingnya meningkatkan kualitas membaca atau literasi serta kedudukannya dalam misi IRK demi terwujudnya Masyarakat Thoyyibah.
+
+# **Rumusan Masalah**
+
+              Sehingga fokus pada tulisan kali ini adalah ingin mengetahui : 1) Apa saja nilai penting dari kebiasaan literasi? 2) Bagaimana kaitan literasi dengan perkembangan sosial remaja? 3) Bagaimana hubungan antara meningkatkan kualitas literasi pada remaja dengan misi PMT?
+
+# **Literasi**
+
+Dalam  Kamus  Besar  Bahasa  Indonesia  atau  KBBI  (2005:  598),  literasi  adalah  1) kemampuan  menulis  dan  membaca,  2)  pengetahuan  atau  keterampilan  dalam  bidang  atau aktivitas tertentu, 3) kemampuan individu dalam mengolah informasi dan pengetahuan untuk kecakapan hidup. Sehingga pengertian literasi yang dimaksud tidak hanya sekedar membaca tetapi juga kemampuan individu dalam mengolah informasi dan pengetahuan yang digunakan untuk menyelesaikan berbagai persoalan. Dalam sebuah artikel (_gurudikdas.dikdasmen.go.id_) yang ditulis oleh Hadi Wuryanto, S.Kom., M.A. dan Moch. Abduh, Ph.D. menyebutkan bahwa penelitian PISA menilai sejauh mana siswa mengusai keterampilan dan pengetahuan yang penting bagi mereka untuk dapat berkontribusi penuh dalam masyarakat modern. Penelitian ini menitikberatkan pada kemampuan membaca, sains dan matematika.
+
+Dari pengertian literasi diatas, agaknya sudah dapat tergambar kiranya apa saja manfaat atau nilai penting dari kebiasaan literasi, beberapa diantaranya :
+
+1.       Kemampuan Dasar dalam memahami berbagai bidang studi
+
+Menurut Lerner, kemampuan membaca menjadi dasar untuk dapat memahami bidang studi yang lain (Ramadhani Kurniawan, 2023). Ketika seseorang mempunyai kebiasaan dan kemampuan membaca dan memahami informasi yang baik, maka dirinya tentu akan lebih mudah dalam memahami informasi atau data mengenai ilmu pengetahuan yang sedang ingin ditekuni.
+
+2.       Meningkatnya Wawasan dan Kemampuan Akal
+
+Hal ini menjadi konsekuensi logis dair poin pertama, dengan adanya kebiasaan literasi tentu seiring berjalannya waktu perbendaharaan katanya akan bertambah, wawasannya semakin luas dan kemampuan akalnya dalam memahami informasi akan senantiasa berkembang apabila dilatih dengan tepat.
+
+# **Perkembangan Sosial Remaja**
+
+Menurut F.J. Monks, A.M.P. Knoers, Siti Rahayu Haditono dalam Buku _“Psikologi Perkembangan”,_ ada masalah-masalah dalam perkembangan sosial remaja, diantaranya :
+
+**1.**       **Dorongan untuk dapat berdiri sendiri dan krisis originalitas**
+
+Seorang remaja sudah dan ingin melepaskan status anak-anaknya tetapi dilain sisi juga belum menjadi dewasa. Dalam proses adolosence atau menuju dewasa ini remaja akan berusaha mencari jati dirinya, mulai melepaskan diri dari orang tua karena “kedewasaannya” dan cenderung semakin mendekati teman sebaya karena adanya perasaan senasib dan sejenisnya. Remaja akan berusaha untuk berdiri sendiri sebagai kecenderungan menuju kedewasaan dan berusaha untuk menonjolkan suatu perbedaan dari yang selainnya, ia akan memanifestasikan penampilan mudanya berbeda dari penampilan orang dewasa maupun anak-anak. Dalam proses pencarian identitas atau originalitas ini tentu remaja memiliki kecenderungan untuk berkelompok.
+
+**2.**       **Komfromitas Kelompok Remaja**
+
+Walaupun pembentukan kelompok pada remaja merupakan suatu proses yang wajar sebagai bentuk dari pelepasan diri atas orang dewasa, tetapi hal ini juga memiliki potensi negatif. Kecenderungan kohesi dalam tiap kelompok akan senantiasa bertambah dengan bertambahnya frekuensi interaksi (Homanas, 1966). Adanya kohesi yang kuat akan menciptakan perkembangan iklim dan norma-norma kelompok, biasanya norma-norma ini dibentuk oleh pemimpin kelompok. Apabila norma-norma ini bersifat lebih baik secara moral daripada norma yang telah ia ketahui sebelumnya maka tidak akan menjadi masalah besar. Akan tetapi tidak menutup kemungkinan adanya iklim dan norma yang bersifat negatif. Seringkali hal ini memberikan sifat “kolektif” yang akan menguasai tingkah laku individu. Suatu kecenderungan yang membatasi rasionalitas dan berpikir rasional, hal ini tidak membantu dalam perkembangan kepribadian yang senyatanya.
+
+**3.**       **Remaja dalam waktu luang**
+
+Dalam menghadapi waktu luang merupakan suatu tantangan tersendiri bagi remaja, pasalnya sering kita dapati realitas remaja yang mengalami kebosanan atau segan untuk melakukan apa saja. Namun dapat juga kita lihat dari sisi positif bahwa remaja dapat menggunakan waktu luangnya sebagai remaja dengan originalitasnya. Sebagai contoh dalam aktivitas olahraga ia dapat mengembangkan potensi dan kemampuannya, dilain sisi ia dapat bermain sebagai anak-anak tapi juga tidak terlalu profesional selayaknya orang dewasa (F.J. Monks, 2006).
+
+Dengan memahami nilai penting dari literasi juga apa saja kiranya masalah-masalah dalam Perkembangan Sosial Remaja tentunya seorang remaja dapat :
+
+**1.**       **Mencari pengetahuan terkait masalah remaja**
+
+Dengan membangun kebiasaan literasi maka wawasan remaja akan semakin bertambah dalam kasus ini termasuk wawasan pengetahuan terkait masalah keremajaan. Pengetahuan yang didapat dari proses literasi serta ditambah dengan diskusi untuk menambah pemahaman akan sangat membantu remaja dalam mencari identitas dirinya atau originalitas diri.
+
+**2.**       **Terhindar dari Pengaruh Negatif Kelompok**
+
+Dengan adanya kebiasaan memahami informasi, kemampuan akal dalam menganalisa variabel dan juga wawasan terkait, tentu seorang remaja tidak akan mudah terpengaruh oleh sifat “kolektif” kelompok yang biasanya justru cenderung membatasi rasionalitas. Ia dengan pemahaman dan akalnya akan memiliki reflek untuk memahami dan menghayati tarika-tarikan eksternal yang menggoda dirinya.
+
+**3.**       **Sebagai Kultur Pengembangan Diri**
+
+Membangun kebiasaan literasi adalah langkah awal dalam menerapkan kultur riset, remaja pelan-pelan dibiasakan dengan refleks membaca, memahami, menganalisa, menghubungkan hingga mengaplikasikan suatu konsep dalam menyelesaikan berbagai permasalahan. Tentunya hal ini akan membawa dampak baik bagi diri remaja itu sendiri, karena ia akan dapat mengembangkan potensinya pada berbagai bidang sesuai dengan keminatannya, yang hal ini dapat dicapai salah satunya melalui kebiasaan membaca hingga kultur riset.
+
+# **Kaitannya Dengan Misi PMT**
+
+Jelas kita ketahui bahwa misi Pembangunan Masyarakat Thoyyibah merupakan perkara besar dan bersifat jangka panjang, remaja kelak akan ikut turut serta. Utamanya untuk mencapai masyarakat thoyyibah diperlukan pembangunan kultur Islam Rasional Kebangsaan. Ketika nilai penting literasi dan kaitannya dengan remaja sudah disadari dan dihubungkan pada Misi Pembangunan Masyarakat Thoyyibah maka ada dua kemungkinan jika ditinjau dari pelaksanaannya :
+
+**1.**       **Ketika Hilangnya Kultur Literasi**
+
+Salah satu akses kepada sumber-sumber pengetahuan utamanya adalah buku. Dalam konteks IRK tentu diperlukan berbagai ilmu pengetahuan terkait mulai dari sejarah, teks ajaran islam, ilmu sosial dan sebagainya. Sebagai contoh di era sekarang rendahnya kesadaran literasi ditambah kurangnya minat mempelajari agama justru menjauhkan remaja dari nilai-nilai agama islam dan juga sejarah hebat umat islam. Hal ini sangat disayangkan karena menyebabkan semakin berkurangnya generasi penerus yang mau membuka cakrawala islam. Lambat laun hal tersebut bagaikan bom waktu yang ujungnya bisa jadi pada hilangnya ajaran islam, bukan karena hilangnya al quran atau buku sejarah tapi karena tidak ada lagi orang yang mau mempelajarinya. Semakin jauh peradaban manusia dari yang namanya Masyarakat Thoyyibah karena hilangnya nilai-nilai islam yang rahmatan lil aalamiin.
+
+**2.**       **Ketika Kultur Literasi Dihidupkan**
+
+Sebaliknya apabila kultur literasi dihidupkan dengan baik dan tepat, insyaAllah remaja sebagai generasi penerus akan lebih siap dalam menghadapi tantangan zaman karena literasi sebagai salah satu dasar untuk kegiatan studi. Ia akan lebih mantap dalam mempersiapkan jalan kariernya, mengejar cita-cita yang nantinya akan berkontribusi juga dan bermuara pada pembangunan masyarakat thoyyibah. Apabila ada yang memantapkan hati untuk tekun dalam mempelajari ajaran islam tentu kebiasaan literasi yang sudah dibangun sejak remaja akan menjadi dasar dalam kemampuan riset yang baik untuk meneliti hal-hal terkait dalam pengembangan konsep-konsep penyelesaian masalah yang tentu membutuhkan pendalaman dan kebutuhan literasi seperti pada teks quran, sejarah, sosiologi, antropologi, psikologi, pembacaan masalah pada masyarakat dan sebagainya. Sehingga harapannya nilai-nilai IRK dapat terus lestari demi menunjang terciptanya Masyarakat Thoyyibah.
+
+Tulisan ini juga menjadi saksi bisu akan perjalanan remaja yang menyadari pentingnya literasi sebagai langkah awal dalam menghidupkan kultur riset hingga dapat melahirkan tulisan-tulisan yang kelak akan menjadi jejak intelektual.
+
+![](file:///C:/Users/User/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
+
+**_Q.S. Al-Alaq (96 : 01)_**
