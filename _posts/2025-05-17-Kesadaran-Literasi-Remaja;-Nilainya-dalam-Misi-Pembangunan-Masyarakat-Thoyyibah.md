@@ -1,5 +1,5 @@
 ---
-title: "KESADARAN LITERASI REMAJA; NILAINYA DALAM MISI PEMBANGUNAN MASYARAKAT THOYYIBAH"
+title: "Kesadaran Literasi Remaja; Nilainya dalam Misi Pembangunan Masyarakat Thoyyibah"
 author: "Faruq Callan"
 date: 2025-05-17
 category: "Gagasan dan Pemikiran"
