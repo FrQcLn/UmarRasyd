@@ -5,7 +5,8 @@ date: 2026-05-18
 category: "Ulasan"
 ---
 
-**Inspired by :** ["Kenapa kita bisa percaya hal-hal ngawur?" - Ryu Hassan Malaka Project ](https://www.youtube.com/watch?v=PJw8BWsbhoQ&t=2828s)
+**Inspired by :** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PJw8BWsbhoQ?si=b7EvyQtkKJKvhQ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Secara garis besar, dalam video tersebut berusaha menjelaskan kenapa kita mempercayai hal-hal ngawur. Beberapa hal dibahas dan disorot. Beberapa diantaranya mulai dari apa yang membedakan kita dengan tumbuhan? apa itu mental? apa itu kecerdasan kognitif? sampai pada kecerdasan emosi sebagai bagian dari mental. **Bahwa mental hanya terjadi ketika manusia berinteraksi dengan manusia lain.** Hal tersebut menghasilkan sebuah konsekuensi bahwa untuk mencapai suatu yang disebut sebagai *"mental"* tentu ada hubungannya dengan moral / nilai. Sebagai contoh :
 
