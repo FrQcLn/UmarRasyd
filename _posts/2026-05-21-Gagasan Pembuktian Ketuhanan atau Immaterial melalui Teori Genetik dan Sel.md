@@ -16,10 +16,10 @@ Sekarang kita beranjak pada persoalan apabila pendekatan ini dibawa ke wilayah b
 
 Maka saya tertarik untuk sedikit menyentuh permukaan pada persoalan poin kedua, yakni mengenai celah wilayah empiris. Dari situ saya mulai melakukan perenungan dan penghayatan. Tentu saja perenungan dan penghayatan tidak akan cukup, saya perlu mencari data. Di situlah saya menemukan video berikut:
 
-![[Pasted image 20260521215724.png]]
+![Pasted image 20260521215724.png](assets/image/mei/Pasted image 20260521215724.png)
 [What is life? A Nobel Prize-winning scientist answers | Paul Nurse Full Interview](https://youtu.be/ZhZvMbNT_qc?si=CAamCnSmPksQ6O03)
 
-![[Pasted image 20260521220054.png]]
+![Pasted image 20260521220054.png](assets/image/mei/Pasted image 20260521220054.png)
 [Bagaimana DNA dapat diterjemahkan menjadi protein? (Penerjemahan kode genetik)](https://youtu.be/HR61LXDQPB8?si=Rwdvd94jl0Z4-Ck_)
 
 Dalam hemat saya, kedua video tersebut menjelaskan bahwa pertanyaan soal ***"apa itu hidup?"*** sebenarnya telah menjadi persoalan sejak lama. Para ilmuwan biologi berusaha menjawab hal tersebut. Namun perlahan hal itu sedikit terjawab. Intinya sebuah sel dapat hidup karena kombinasi dari dua hal yakni **KIMIA + INFORMASI**. Di sini Gen melalui DNA membawa peran penting yakni informasi-informasi kompleks yang mengatur susunan dan kerja reaksi kimia tadi, melalui proses Transkripsi dan Translasi. Dari yang awalnya berupa susunan informasi DNA yang begitu unik, kompleks dan detail (bisa saya umpamakan seperti undang-undang reaksi kimia) lalu berubah menjadi mRNA sampai akhirnya menjadi asam amino dengan jenis yang berbeda-beda tergantung dengan kode Genetik yang dibawa. Dari sinilah sel bisa menghasilkan pembelahan, membentuk suatu susunan kimiawi yang identik dengan dirinya karena ada semacam aturan main dari DNA itu tadi—sejauh yang dapat saya pahami.  Adanya mutasi genetik dan perbedaan atau kesalahan kecil dalam proses penyalinan DNA dan pembentukan asam amino inilah yang menyebabkan adanya evolusi yang nantinya juga terikat dengan seleksi alam. Namun yang menjadi fokus bahasan di sini yakni terkait sel, genetik dan "hidup" itu sendiri.
